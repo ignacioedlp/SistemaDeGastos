@@ -1,0 +1,177 @@
+[06-Jan-2022 03:26:43 UTC] Start!
+[06-Jan-2022 03:26:43 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:26:46 UTC] Start!
+[06-Jan-2022 03:26:46 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:26:54 UTC] Start!
+[06-Jan-2022 03:26:54 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:26:54 UTC] Start!
+[06-Jan-2022 03:26:54 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:26:59 UTC] Start!
+[06-Jan-2022 03:26:59 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:27:02 UTC] Start!
+[06-Jan-2022 03:27:04 UTC] Start!
+[06-Jan-2022 03:27:04 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:27:23 UTC] Start!
+[06-Jan-2022 03:27:23 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:27:24 UTC] Start!
+[06-Jan-2022 03:27:26 UTC] Start!
+[06-Jan-2022 03:27:26 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:27:31 UTC] Start!
+[06-Jan-2022 03:27:32 UTC] Start!
+[06-Jan-2022 03:27:32 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:27:34 UTC] Start!
+[06-Jan-2022 03:27:34 UTC] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[06-Jan-2022 03:27:34 UTC] Start!
+[06-Jan-2022 03:27:34 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:27:38 UTC] Start!
+[06-Jan-2022 03:27:38 UTC] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[06-Jan-2022 03:27:38 UTC] Start!
+[06-Jan-2022 03:27:38 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:28:08 UTC] Start!
+[06-Jan-2022 03:28:08 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:28:11 UTC] Start!
+[06-Jan-2022 03:28:11 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:28:11 UTC] Start!
+[06-Jan-2022 03:28:11 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:28:22 UTC] Start!
+[06-Jan-2022 03:28:22 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:28:25 UTC] Start!
+[06-Jan-2022 03:28:27 UTC] Start!
+[06-Jan-2022 03:28:27 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:30:07 UTC] Start!
+[06-Jan-2022 03:30:07 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:30:56 UTC] Start!
+[06-Jan-2022 03:30:56 UTC] SessionController::validateSession() redirect al login
+[06-Jan-2022 03:30:56 UTC] Start!
+[06-Jan-2022 03:30:56 UTC] SessionController::validateSession() public page
+[06-Jan-2022 03:31:02 UTC] Start!
+[06-Jan-2022 03:31:02 UTC] SessionController::validateSession() public page
+[06-Jan-2022 03:31:02 UTC] login: inicio
+[06-Jan-2022 03:31:02 UTC] Start!
+[06-Jan-2022 03:31:02 UTC] SessionController::validateSession() public page
+[06-Jan-2022 03:31:07 UTC] Start!
+[06-Jan-2022 03:31:07 UTC] SessionController::validateSession() public page
+[06-Jan-2022 03:31:07 UTC] login: inicio
+[06-Jan-2022 03:31:07 UTC] Start!
+[06-Jan-2022 03:31:07 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:07 UTC] Start!
+[06-Jan-2022 03:31:07 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:08 UTC] Start!
+[06-Jan-2022 03:31:08 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:08 UTC] Start!
+[06-Jan-2022 03:31:08 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:08 UTC] Start!
+[06-Jan-2022 03:31:08 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:08 UTC] Start!
+[06-Jan-2022 03:31:08 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:08 UTC] Start!
+[06-Jan-2022 03:31:08 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:08 UTC] Start!
+[06-Jan-2022 03:31:08 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:09 UTC] Start!
+[06-Jan-2022 03:31:09 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:09 UTC] Start!
+[06-Jan-2022 03:31:09 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:09 UTC] Start!
+[06-Jan-2022 03:31:09 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:09 UTC] Start!
+[06-Jan-2022 03:31:09 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:09 UTC] Start!
+[06-Jan-2022 03:31:09 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:10 UTC] Start!
+[06-Jan-2022 03:31:10 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:10 UTC] Start!
+[06-Jan-2022 03:31:10 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:10 UTC] Start!
+[06-Jan-2022 03:31:10 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:10 UTC] Start!
+[06-Jan-2022 03:31:10 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:11 UTC] Start!
+[06-Jan-2022 03:31:11 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:11 UTC] Start!
+[06-Jan-2022 03:31:11 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:12 UTC] Start!
+[06-Jan-2022 03:31:12 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:12 UTC] Start!
+[06-Jan-2022 03:31:12 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:12 UTC] Start!
+[06-Jan-2022 03:31:12 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:12 UTC] Start!
+[06-Jan-2022 03:31:12 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:13 UTC] Start!
+[06-Jan-2022 03:31:13 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:13 UTC] Start!
+[06-Jan-2022 03:31:13 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:13 UTC] Start!
+[06-Jan-2022 03:31:13 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:13 UTC] Start!
+[06-Jan-2022 03:31:13 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:14 UTC] Start!
+[06-Jan-2022 03:31:14 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:14 UTC] Start!
+[06-Jan-2022 03:31:14 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:14 UTC] Start!
+[06-Jan-2022 03:31:14 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:14 UTC] Start!
+[06-Jan-2022 03:31:14 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:14 UTC] Start!
+[06-Jan-2022 03:31:14 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:15 UTC] Start!
+[06-Jan-2022 03:31:15 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:15 UTC] Start!
+[06-Jan-2022 03:31:15 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:15 UTC] Start!
+[06-Jan-2022 03:31:15 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:15 UTC] Start!
+[06-Jan-2022 03:31:15 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:16 UTC] Start!
+[06-Jan-2022 03:31:16 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:16 UTC] Start!
+[06-Jan-2022 03:31:16 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:16 UTC] Start!
+[06-Jan-2022 03:31:16 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:21 UTC] Start!
+[06-Jan-2022 03:31:21 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:21 UTC] Start!
+[06-Jan-2022 03:31:21 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:21 UTC] Start!
+[06-Jan-2022 03:31:21 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:22 UTC] Start!
+[06-Jan-2022 03:31:22 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:22 UTC] Start!
+[06-Jan-2022 03:31:22 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:22 UTC] Start!
+[06-Jan-2022 03:31:22 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:22 UTC] Start!
+[06-Jan-2022 03:31:22 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:22 UTC] Start!
+[06-Jan-2022 03:31:22 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:23 UTC] Start!
+[06-Jan-2022 03:31:23 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:23 UTC] Start!
+[06-Jan-2022 03:31:23 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:23 UTC] Start!
+[06-Jan-2022 03:31:23 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:23 UTC] Start!
+[06-Jan-2022 03:31:23 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:23 UTC] Start!
+[06-Jan-2022 03:31:23 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:23 UTC] Start!
+[06-Jan-2022 03:31:24 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:24 UTC] Start!
+[06-Jan-2022 03:31:24 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:24 UTC] Start!
+[06-Jan-2022 03:31:24 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:24 UTC] Start!
+[06-Jan-2022 03:31:24 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:24 UTC] Start!
+[06-Jan-2022 03:31:24 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:25 UTC] Start!
+[06-Jan-2022 03:31:25 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:25 UTC] Start!
+[06-Jan-2022 03:31:25 UTC] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[06-Jan-2022 03:31:36 UTC] Start!
+[06-Jan-2022 03:31:36 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:31:37 UTC] Start!
+[06-Jan-2022 03:31:37 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[06-Jan-2022 03:31:37 UTC] EXPENSES::getHistoryJSON->INICIO
